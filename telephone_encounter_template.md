@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Example Encounter: Headache Call from Caregiver
+## Example Encounter: Headache Call from Caregiver
 
 **Patient Name**: Janelle Johnson  
 **Date of Birth**: 08/12/2014  
