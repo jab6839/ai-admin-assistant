@@ -17,10 +17,10 @@ This project is part of a 15-week internship focused on leveraging AI (e.g., Cha
 | 1    | [Insert Dates] | Project kickoff, created templates, started logging | ChatGPT, GitHub | Project scope clarification, task planning | |
 
 ## Project Components
-- 📄 **Templates**: EMR note formats, call documentation, email drafts  
-- 🧠 **Prompt Engineering**: ChatGPT prompts to automate tasks  
-- 📊 **Tracking**: Airtable or Sheets to record task categories and automation results  
-- 📂 **Deliverables**: Logs, outputs, final report, and presentation  
+- **Templates**: EMR note formats, call documentation, email drafts  
+-  **Prompt Engineering**: ChatGPT prompts to automate tasks  
+-  **Tracking**: Airtable or Sheets to record task categories and automation results  
+-  **Deliverables**: Logs, outputs, final report, and presentation  
 
 ## Folder Structure
 
